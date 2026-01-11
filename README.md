@@ -1,27 +1,95 @@
+# Salut, moi c’est Ditorga Nanga
 
-<h1 align="center">Hi 👋, I'm Fulbert D. NANGA</h1>
-<h3 align="center">A passionate fullstack developer from Togo</h3>
+## Développeur Web Junior | Laravel & React
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fulbertdev-ai&label=Profile%20views&color=0e75b6&style=flat" alt="fulbertdev-ai" /> </p>
+Développeur web spécialisé en **Laravel (backend)** et **React (frontend)**,  
+orienté conception d’applications web modernes, maintenables et centrées sur les besoins métier.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fulbertdev-ai" alt="fulbertdev-ai" /></a> </p>
+Titulaire d’un **BTS en Développement d’Applications** et actuellement en **Licence Génie Logiciel**,  
+je suis motivé par la mise en pratique des bonnes architectures, la qualité du code et l’expérience utilisateur.
 
-- 🔭 I’m currently working on **improving my level in web development**
+Localisation : Lomé, Togo  
+Disponibilité : Oui
+---
 
-- 🌱 I’m currently learning **Dart and its framework Flutter**
+## Stack technique
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+### Backend
+- PHP, Laravel  
+- API REST  
+- Authentification (JWT / Sessions)  
+- Architecture MVC  
+- MySQL  
 
-- 📫 How to reach me **contact.fulbert@gmail.com**
+### Frontend
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Responsive Design  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nanga ditorga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanga ditorga" height="30" width="40" /></a>
-</p>
+### Mobile (en apprentissage)
+- Flutter, Dart  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Outils et bonnes pratiques
+- Git, GitHub  
+- Clean Code  
+- UX / UI  
+- Déploiement (Vercel)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fulbertdev-ai&show_icons=true&locale=en&layout=compact" alt="fulbertdev-ai" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fulbertdev-ai&show_icons=true&locale=en" alt="fulbertdev-ai" /></p>
+## Projets principaux
+
+### CITIL – Plateforme de gestion (Laravel & React)
+Plateforme web complète destinée à la gestion de projets, de services et de formations pour un cabinet d’ingénierie.
+
+- Backend développé avec Laravel (API REST, base de données MySQL)  
+- Frontend React dynamique et responsive  
+- Authentification et fonctionnalités CRUD complètes  
+- Architecture modulaire et maintenable  
+
+Repo : https://github.com/FulbertDev-AI/nom-du-repo  
+  
+
+---
+
+### IT-Orientation – Plateforme d’orientation IT
+Application web destinée aux étudiants et nouveaux bacheliers souhaitant s’orienter dans les métiers de l’informatique.
+
+- Présentation de roadmaps en Génie Logiciel et Cybersécurité  
+- Interface pédagogique et interactive  
+- Frontend React avec design responsive  
+
+Repo : https://github.com/FulbertDev-AI/nom-du-repo  
+
+---
+
+### Application de gestion de club de fitness
+Application web conçue pour la gestion des adhérents, des abonnements et des cours.
+
+- Backend Laravel  
+- Frontend React  
+- Logique métier complète avec opérations CRUD  
+
+Repo : https://github.com/FulbertDev-AI/nom-du-repo  
+
+---
+
+## Ce que je fais actuellement
+- Approfondissement de Laravel et React  
+- Apprentissage du développement mobile avec Flutter  
+- Amélioration et refactorisation des projets existants  
+- Veille technologique continue  
+
+---
+
+## Me contacter
+
+Portfolio : https://dnanga.vercel.app  
+LinkedIn : https://www.linkedin.com/in/ditorga-nanga-7817a331a/  
+Email : contact.fulbert@gmail.com  
+GitHub : https://github.com/FulbertDev-AI  
+
+---
+
+N’hésitez pas à consulter mes projets ou à me contacter pour toute opportunité de collaboration.
