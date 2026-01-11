@@ -60,7 +60,7 @@ Application web destinée aux étudiants et nouveaux bacheliers souhaitant s’o
 - Interface pédagogique et interactive  
 - Frontend React avec design responsive  
 
-Repo : https://github.com/FulbertDev-AI/nom-du-repo  
+Repo : [https://github.com/FulbertDev-AI/nom-du-repo  ](https://github.com/FulbertDev-AI/IT-orientation.github.io.git)
 
 ---
 
@@ -71,7 +71,7 @@ Application web conçue pour la gestion des adhérents, des abonnements et des c
 - Frontend React  
 - Logique métier complète avec opérations CRUD  
 
-Repo : https://github.com/FulbertDev-AI/nom-du-repo  
+Repo :[ https://github.com/FulbertDev-AI/nom-du-repo  ](https://github.com/FulbertDev-AI/application-de-gestion-d-un-club-de-fitness.git)
 
 ---
 
