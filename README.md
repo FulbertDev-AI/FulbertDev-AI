@@ -1,6 +1,6 @@
 # Salut, moi c’est Ditorga Nanga
 
-## Développeur Web Junior | Laravel & React
+## Software Developer | Backend Specialist (Laravel • Django • Spring Boot) & COBOL | Fintech & Green IT Expert | Climate Tech Advocate & UN Opportunities Seeker
 
 Développeur web spécialisé en **Laravel (backend)** et **React (frontend)**,  
 orienté conception d’applications web modernes, maintenables et centrées sur les besoins métier.
