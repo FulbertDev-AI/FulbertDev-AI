@@ -1,95 +1,96 @@
-# Salut, moi c’est Ditorga Nanga
+# NANGA Ditorga
 
-## Software Developer | Backend Specialist (Laravel • Django • Spring Boot) & COBOL | Fintech & Green IT Expert | Climate Tech Advocate & UN Opportunities Seeker
+## Full-Stack Developer | Backend Specialist | Climate Tech Advocate | Building Sustainable Digital Infrastructure
 
-Développeur web spécialisé en **Laravel (backend)** et **React (frontend)**,  
-orienté conception d’applications web modernes, maintenables et centrées sur les besoins métier.
-
-Titulaire d’un **BTS en Développement d’Applications** et actuellement en **Licence Génie Logiciel**,  
-je suis motivé par la mise en pratique des bonnes architectures, la qualité du code et l’expérience utilisateur.
-
-Localisation : Lomé, Togo  
-Disponibilité : Oui
----
-
-## Stack technique
-
-### Backend
-- PHP, Laravel  
-- API REST  
-- Authentification (JWT / Sessions)  
-- Architecture MVC  
-- MySQL  
-
-### Frontend
-- React.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Responsive Design  
-
-### Mobile (en apprentissage)
-- Flutter, Dart  
-
-### Outils et bonnes pratiques
-- Git, GitHub  
-- Clean Code  
-- UX / UI  
-- Déploiement (Vercel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NANGA_Ditorga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ditorga-nanga-7817a331a/)  
+[![Email](https://img.shields.io/badge/Email-contact.fulbert@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.fulbert@gmail.com)  
+![Location](https://img.shields.io/badge/Location-Lomé,_Togo-228B22?style=for-the-badge&logo=location&logoColor=white)
 
 ---
 
-## Projets principaux
+### About Me
 
-### CITIL – Plateforme de gestion (Laravel & React)
-Plateforme web complète destinée à la gestion de projets, de services et de formations pour un cabinet d’ingénierie.
+I'm a **Software Developer** passionate about building robust backend systems and sustainable digital solutions. I focus on creating applications that combine technical excellence with environmental responsibility.
 
-- Backend développé avec Laravel (API REST, base de données MySQL)  
-- Frontend React dynamique et responsive  
-- Authentification et fonctionnalités CRUD complètes  
-- Architecture modulaire et maintenable  
-
-Repo : https://github.com/FulbertDev-AI/nom-du-repo  
-  
+**Current Focus:**
+- Backend Development: Building scalable APIs and data-driven applications
+- Climate Tech: Developing eco-conscious software and promoting Green IT practices
+- GX Africa Ambassador: Promoting AI education and climate leadership across Africa
 
 ---
 
-### IT-Orientation – Plateforme d’orientation IT
-Application web destinée aux étudiants et nouveaux bacheliers souhaitant s’orienter dans les métiers de l’informatique.
+### Tech Stack
 
-- Présentation de roadmaps en Génie Logiciel et Cybersécurité  
-- Interface pédagogique et interactive  
-- Frontend React avec design responsive  
+A modern technology stack selected for performance, security and sustainability.
 
-Repo : [https://github.com/FulbertDev-AI/nom-du-repo  ](https://github.com/FulbertDev-AI/IT-orientation.github.io.git)
+**Interface:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![HTML/CSS/JS](https://img.shields.io/badge/HTML/CSS/JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Data & Backend:**  
+![Python/Django](https://img.shields.io/badge/Python/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![PHP/Laravel](https://img.shields.io/badge/PHP/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure & DevOps:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+---
+
+### What I'm Working On
+
+- **Sustainable Software**: Implementing eco-design principles to reduce digital carbon footprint
+- **Full-Stack Projects**: Building complete web applications from database to user interface
+- **Community Impact**: Contributing to tech education and climate awareness initiatives
 
 ---
 
-### Application de gestion de club de fitness
-Application web conçue pour la gestion des adhérents, des abonnements et des cours.
+<!-- 
+### GitHub Stats
 
-- Backend Laravel  
-- Frontend React  
-- Logique métier complète avec opérations CRUD  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FulbertDev-AI&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-Repo :[ https://github.com/FulbertDev-AI/nom-du-repo  ](https://github.com/FulbertDev-AI/application-de-gestion-d-un-club-de-fitness.git)
-
----
-
-## Ce que je fais actuellement
-- Approfondissement de Laravel et React  
-- Apprentissage du développement mobile avec Flutter  
-- Amélioration et refactorisation des projets existants  
-- Veille technologique continue  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FulbertDev-AI&layout=compact&theme=dark&hide_border=false)
+-->
 
 ---
 
-## Me contacter
+### Certifications & Recognition
 
-Portfolio : https://dnanga.vercel.app  
-LinkedIn : https://www.linkedin.com/in/ditorga-nanga-7817a331a/  
-Email : contact.fulbert@gmail.com  
-GitHub : https://github.com/FulbertDev-AI  
+- **GX Africa Green Ambassador** - Climate Leadership & Applied AI
+- **Tech Community Leadership** - Structuring tech initiatives and mentoring students
+- **OpenClassrooms Certified** - Object-Oriented Programming with Python
 
 ---
 
-N’hésitez pas à consulter mes projets ou à me contacter pour toute opportunité de collaboration.
+### Let's Connect
+
+I'm always interested in collaborating on projects that combine **technical quality** and **positive impact**.
+
+Whether you're working on:
+- A web application requiring solid backend development
+- A project focused on sustainability and environmental impact
+- An initiative that needs full-stack development skills
+
+**Let's build something meaningful together.**
+
+---
+
+### Reach Me
+
+- Portfolio : [Portfolio](https://dnanga.wasmer.app/)
+- Linkedin : [LinkedIn](https://www.linkedin.com/in/ditorga-nanga-7817a331a/)
+- Email: contact.fulbert@gmail.com
+
+---
+
+*Bridging technical precision with ethical integrity and eco-friendly software design.*
